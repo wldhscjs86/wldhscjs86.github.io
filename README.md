@@ -1,4 +1,4 @@
-# 프로젝트명: We'll be rich
+# 프로젝트명: We'll be rich(최준영)
 
 # [컨셉]
 
