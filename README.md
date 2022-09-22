@@ -35,19 +35,19 @@
 <img src="./img/2.jpg">
 
 - 동영상
-  [![](./img/3.png)](https://www.youtube.com/watch?v=nsFdX2nUdS8)
+  [![](./img/3.jpg)](https://www.youtube.com/watch?v=nsFdX2nUdS8)
 
 <br><br>
 
 # [대표 이미지]
 
-![그림](./img/그림.png)
+![그림](./img/4.jpg)
 
 <br><br>
 
 # [컨셉 & 대표이미지 기반 작품묘사]
 
-> ### 대표이미지 기반 : <img src="./img/4.jpg">
+> ### 대표이미지 기반 : 인디아나 존스
 
 > ### 컨셉 기반: 주인공이 세상에 알려지지 않은 보물들을 찾아다니며 보물을 찾아 자신의 부와 명예를 얻으려고 모험을 떠납니다. 게임은 2D 도트(미정)로 제작될 예정입니다.
 
