@@ -1,12 +1,13 @@
 # 프로젝트명: We'll be rich(최준영)
 
-# [ 목차 ] <a name='main'></a>
-### 1. [게임명 : We'll be rich]
+# [ 목차 ]
+### 1. [게임명 : We'll be rich] <a name='main'></a>
 ### 2. [컨셉](#2)
 ### 3. [관련 이미지 & 동영상](#3)
 ### 4. [대표 이미지](#4)
 ### 5. [컨셉 & 대표이미지 기반 작품묘사](#5)
 ### 6. [<We'll be rich> 구성 요소](#6)
+### 7. [게임 시스템 디자인](#7)
 
 <br><br>
 
@@ -164,6 +165,49 @@ K : 아이템 사용
 
  PC용 패키지 게임을 목표로 출시 예정입니다.
 
-<br>
+<br><br>
 
-### [목차로 돌아가기](#main)
+# [게임 시스템 디자인] <a name='7'></a>
+
+## 1. 게임 오브젝트 분해 (구성 요소 분석)
+
+|연번|오브젝트 이름|오브젝트 이미지|
+|:----:|:----:|:----:|
+|1|플레이어|<img src="./img/player (Gary).jpg" width="50">|
+|2|NPC|<img src="./img/NPC (Aviator jimmy).jpg" width="50">|
+|3|NPC|<img src="./img/NPC (Shopkeeper Bob).jpg" height="50">|
+|4|UI|<img src="./img/UI (Health).jpg" height="50">|
+|5|UI|<img src="./img/UI (Rope).jpg" height="50">|
+|6|UI|<img src="./img/UI (Dynamite).jpg" height="50">|
+|7|UI|<img src="./img/UI (Scoreboard).jpg" height="50">|
+|8|UI|<img src="./img/UI (Stage).jpg" height="50">|
+|9|아이템|<img src="./img/Item (Rope).jpg" height="50">|
+|10|아이템|<img src="./img/Item (Revolver).jpg" height="50">|
+|11|아이템|<img src="./img/Item (Shotgun).jpg" height="50">|
+|12|아이템|<img src="./img/Item (Dynamite).jpg" height="50">|
+|13|아이템|<img src="./img/Item (Dynamite box).jpg" height="50">|
+|14|아이템|<img src="./img/Item (Shovel).jpg" height="50">|
+|15|아이템|<img src="./img/Item (Small gold nugget).jpg" height="50">|
+|16|아이템|<img src="./img/Item (Big gold nugget).jpg" height="50">|
+|17|아이템|<img src="./img/Item (Ruby).jpg" height="50">|
+|18|아이템|<img src="./img/Item (Pot).jpg" height="50">|
+|19|아이템|<img src="./img/Item (Cola).jpg" height="50">|
+|20|아이템|<img src="./img/Item (Helmet).jpg" height="50">|
+|21|보물|<img src="./img/Treasure (Golden scarab).jpg" height="50">|
+|22|보물|<img src="./img/Treasure (Golden monkey).jpg" height="50">|
+|23|보물|<img src="./img/Treasure (Emperor's Coffin).jpg" height="50">|
+|24|맵|<img src="./img/Map (Desert).jpg" height="50">|
+|25|맵|<img src="./img/Map (Jungle).jpg" height="50">|
+|26|맵|<img src="./img/Map (Underground cave).jpg" height="50">|
+|27|몬스터|<img src="./img/Monster (Mummy).jpg" height="50">|
+|28|몬스터|<img src="./img/Monster (Scarab).jpg" height="50">|
+|29|몬스터|<img src="./img/Monster (scorpion).jpg" height="50">|
+|30|몬스터|<img src="./img/Monster (snake).jpg" height="50">|
+|31|몬스터|<img src="./img/Monster (primitive man).jpg" height="50">|
+|32|몬스터|<img src="./img/Monster (spider).jpg" height="50">|
+|33|몬스터|<img src="./img/Monster (golem).jpg" height="50">|
+|34|몬스터|<img src="./img/Monster (skeleton).jpg" height="50">|
+|35|몬스터|<img src="./img/Monster (bat).jpg" height="50">|
+|36|보스|<img src="./img/Item (Revolver).jpg" height="50">|
+|37|보스|<img src="./img/Item (Revolver).jpg" height="50">|
+|38|보스|<img src="./img/Item (Revolver).jpg" height="50">|
