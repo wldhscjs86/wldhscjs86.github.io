@@ -173,41 +173,41 @@ K : 아이템 사용
 
 |연번|오브젝트 이름|오브젝트 이미지|
 |:----:|:----:|:----:|
-|1|플레이어|<img src="./img/player (Gary).jpg" width="100">|
-|2|NPC|<img src="./img/NPC (Aviator jimmy).jpg" width="100">|
-|3|NPC|<img src="./img/NPC (Shopkeeper Bob).jpg" height="100">|
-|4|UI|<img src="./img/UI (Health).jpg" height="100">|
-|5|UI|<img src="./img/UI (Rope).jpg" height="100">|
-|6|UI|<img src="./img/UI (Dynamite).jpg" height="100">|
-|7|UI|<img src="./img/UI (Scoreboard).jpg" height="100">|
-|8|UI|<img src="./img/UI (Stage).jpg" height="100">|
-|9|아이템|<img src="./img/Item (Rope).jpg" height="100">|
-|10|아이템|<img src="./img/Item (Revolver).jpg" height="100">|
-|11|아이템|<img src="./img/Item (Shotgun).jpg" height="100">|
-|12|아이템|<img src="./img/Item (Dynamite).jpg" height="100">|
-|13|아이템|<img src="./img/Item (Dynamite box).jpg" height="100">|
-|14|아이템|<img src="./img/Item (Shovel).jpg" height="100">|
-|15|아이템|<img src="./img/Item (Small gold nugget).jpg" height="100">|
-|16|아이템|<img src="./img/Item (Big gold nugget).jpg" height="100">|
-|17|아이템|<img src="./img/Item (Ruby).jpg" height="100">|
-|18|아이템|<img src="./img/Item (Pot).jpg" height="100">|
-|19|아이템|<img src="./img/Item (Cola).jpg" height="100">|
-|20|아이템|<img src="./img/Item (Helmet).jpg" height="100">|
-|21|보물|<img src="./img/Treasure (Golden scarab).jpg" height="100">|
-|22|보물|<img src="./img/Treasure (Golden monkey).jpg" height="100">|
-|23|보물|<img src="./img/Treasure (Emperor's Coffin).jpg" height="100">|
-|24|맵|<img src="./img/Map (Desert).jpg" height="100">|
-|25|맵|<img src="./img/Map (Jungle).jpg" height="100">|
-|26|맵|<img src="./img/Map (Underground cave).jpg" height="100">|
-|27|몬스터|<img src="./img/Monster (Mummy).jpg" height="100">|
-|28|몬스터|<img src="./img/Monster (Scarab).jpg" height="100">|
-|29|몬스터|<img src="./img/Monster (scorpion).jpg" height="100">|
-|30|몬스터|<img src="./img/Monster (snake).jpg" height="100">|
-|31|몬스터|<img src="./img/Monster (primitive man).jpg" height="100">|
-|32|몬스터|<img src="./img/Monster (spider).jpg" height="100">|
-|33|몬스터|<img src="./img/Monster (golem).jpg" height="100">|
-|34|몬스터|<img src="./img/Monster (skeleton).jpg" height="100">|
-|35|몬스터|<img src="./img/Monster (bat).jpg" height="100">|
-|36|보스|<img src="./img/Boss (Anubis).jpg" height="100">|
-|37|보스|<img src="./img/Boss (King Kong).jpg" height="100">|
-|38|보스|<img src="./img/Boss (Giant golem).jpg" height="100">|
+|1|player (Gary)|<img src="./img/player (Gary).jpg" width="100">|
+|2|NPC (Aviator jimmy)|<img src="./img/NPC (Aviator jimmy).jpg" width="100">|
+|3|NPC (Shopkeeper Bob)|<img src="./img/NPC (Shopkeeper Bob).jpg" height="100">|
+|4|UI (Health)|<img src="./img/UI (Health).jpg" height="100">|
+|5|UI (Rope)|<img src="./img/UI (Rope).jpg" height="100">|
+|6|UI (Dynamite)|<img src="./img/UI (Dynamite).jpg" height="100">|
+|7|UI (Scoreboard)|<img src="./img/UI (Scoreboard).jpg" height="100">|
+|8|UI (Stage)|<img src="./img/UI (Stage).jpg" height="100">|
+|9|Item (Rope)|<img src="./img/Item (Rope).jpg" height="100">|
+|10|Item (Revolver)|<img src="./img/Item (Revolver).jpg" height="100">|
+|11|Item (Shotgun)|<img src="./img/Item (Shotgun).jpg" height="100">|
+|12|Item (Dynamite)|<img src="./img/Item (Dynamite).jpg" height="100">|
+|13|Item (Dynamite box)|<img src="./img/Item (Dynamite box).jpg" height="100">|
+|14|Item (Shovel)|<img src="./img/Item (Shovel).jpg" height="100">|
+|15|Item (Small gold nugget)|<img src="./img/Item (Small gold nugget).jpg" height="100">|
+|16|Item (Big gold nugget)|<img src="./img/Item (Big gold nugget).jpg" height="100">|
+|17|Item (Ruby)|<img src="./img/Item (Ruby).jpg" height="100">|
+|18|Item (Pot)|<img src="./img/Item (Pot).jpg" height="100">|
+|19|Item (Cola)|<img src="./img/Item (Cola).jpg" height="100">|
+|20|Item (Helmet)|<img src="./img/Item (Helmet).jpg" height="100">|
+|21|Treasure (Golden scarab)|<img src="./img/Treasure (Golden scarab).jpg" height="100">|
+|22|Treasure (Golden monkey)|<img src="./img/Treasure (Golden monkey).jpg" height="100">|
+|23|Treasure (Emperor's Coffin)|<img src="./img/Treasure (Emperor's Coffin).jpg" height="100">|
+|24|Map (Desert)|<img src="./img/Map (Desert).jpg" height="100">|
+|25|Map (Jungle)|<img src="./img/Map (Jungle).jpg" height="100">|
+|26|Map (Underground cave)|<img src="./img/Map (Underground cave).jpg" height="100">|
+|27|Monster (Mummy)|<img src="./img/Monster (Mummy).jpg" height="100">|
+|28|Monster (Scarab)|<img src="./img/Monster (Scarab).jpg" height="100">|
+|29|Monster (scorpion)|<img src="./img/Monster (scorpion).jpg" height="100">|
+|30|Monster (snake)|<img src="./img/Monster (snake).jpg" height="100">|
+|31|Monster (primitive man)|<img src="./img/Monster (primitive man).jpg" height="100">|
+|32|Monster (spider)|<img src="./img/Monster (spider).jpg" height="100">|
+|33|Monster (golem)|<img src="./img/Monster (golem).jpg" height="100">|
+|34|Monster (skeleton)|<img src="./img/Monster (skeleton).jpg" height="100">|
+|35|Monster (bat)|<img src="./img/Monster (bat).jpg" height="100">|
+|36|Boss (Anubis)|<img src="./img/Boss (Anubis).jpg" height="100">|
+|37|Boss (King Kong)<img src="./img/Boss (King Kong).jpg" height="100">|
+|38|Boss (Giant golem)|<img src="./img/Boss (Giant golem).jpg" height="100">|
