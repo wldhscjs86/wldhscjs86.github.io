@@ -210,4 +210,4 @@ K : 아이템 사용
 |35|몬스터|<img src="./img/Monster (bat).jpg" height="50">|
 |36|보스|<img src="./img/Boss (Anubis).jpg" height="50">|
 |37|보스|<img src="./img/Boss (King Kong).jpg" height="50">|
-|38|보스|<img src="./img/Boss (Giant golem).jpg" height="50">|
+|38|보스|<img src="./img/Boss (Giant golem).jpg" height="500">|
