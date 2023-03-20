@@ -63,7 +63,7 @@
 <img src="./img/2.jpg">
 
 - 동영상 <br>
-  [![](./img/3.jpg)](https://www.youtube.com/watch?v=nsFdX2nUdS8)
+  [![](./img/3.jpg)](https://youtu.be/DcaHWvr7MPY)
 
 <br>
 
