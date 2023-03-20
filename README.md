@@ -59,11 +59,11 @@
 # [관련 이미지 & 동영상] <a name='3'></a>
 
 - 이미지 <br>  
-<img src="./-img/.jpg"> <br>
-<img src="./--img/.jpg">
+<img src="./img/1.jpg"> <br>
+<img src="./img/2.jpg">
 
 - 동영상 <br>
-  [![](./img/---.jpg)](https://youtu.be/DcaHWvr7MPY)
+  [![](./img/3.jpg)](https://youtu.be/DcaHWvr7MPY)
 
 <br>
 
