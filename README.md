@@ -60,6 +60,8 @@
 
 - 캐릭터 컨셉 이미지 <br>  
 <img src="./img/1.jpg"> <br>
+
+- 게임 모티브 <br>
 <img src="./img/2.jpg">
 
 - 동영상 <br>
